@@ -17,25 +17,25 @@
 Software developer passionate about building practical solutions and continuously learning new technologies. Interested in AI, backend development and creating projects that solve real problems. Currently working on **personal projects to strengthen my portfolio** and learning **AI, backend development and software architecture**  
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=28&duration=1&pause=999999&color=738678&width=180&height=40&lines=About+Me&center=false&vCenter=true&repeat=false" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=28&duration=1&pause=999999&color=738678&width=180&height=40&lines=Tech+Stack&center=false&vCenter=true&repeat=false" alt="Tech Stack" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-718355?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python" />
   <img src="https://img.shields.io/badge/Java-87986A?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-97A97C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-B5C99A?style=for-the-badge&logo=csharp&logoColor=FFFFFF" alt="C#" />
-  <img src="https://img.shields.io/badge/C-CFE1B9?style=for-the-badge&logo=c&logoColor=FFFFFF" alt="C" />
-  <img src="https://img.shields.io/badge/Haskell-CFE1B9?style=for-the-badge&logo=haskell&logoColor=FFFFFF" alt="Haskell" />
-  <img src="https://img.shields.io/badge/SQL-B5C99A?style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="SQL" />
-  <img src="https://img.shields.io/badge/.NET-97A97C?style=for-the-badge&logo=dotnet&logoColor=FFFFFF" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%2B%2B-718355?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" alt="C++" />
+  <img src="https://img.shields.io/badge/C-97A97C?style=for-the-badge&logo=c&logoColor=FFFFFF" alt="C" />
+  <img src="https://img.shields.io/badge/Haskell-87986A?style=for-the-badge&logo=haskell&logoColor=FFFFFF" alt="Haskell" />
+  <img src="https://img.shields.io/badge/SQL-97A97C?style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="SQL" />
+  <img src="https://img.shields.io/badge/.NET-718355?style=for-the-badge&logo=dotnet&logoColor=FFFFFF" alt=".NET" />
   <img src="https://img.shields.io/badge/Docker-87986A?style=for-the-badge&logo=docker&logoColor=FFFFFF" alt="Docker" />
   <img src="https://img.shields.io/badge/Figma-718355?style=for-the-badge&logo=figma&logoColor=FFFFFF" alt="Figma" />
 </p>
 
 
+
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=28&duration=1&pause=999999&color=738678&width=180&height=40&lines=About+Me&center=false&vCenter=true&repeat=false" alt="GitHub Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=28&duration=1&pause=999999&color=738678&width=180&height=40&lines=GitHub+Stats&center=false&vCenter=true&repeat=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
