@@ -21,16 +21,16 @@ Software developer passionate about building practical solutions and continuousl
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Python-718355?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-87986A?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-97A97C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-B5C99A?style=for-the-badge&logo=csharp&logoColor=FFFFFF" alt="C#" />
+  <img src="https://img.shields.io/badge/C-CFE1B9?style=for-the-badge&logo=c&logoColor=FFFFFF" alt="C" />
+  <img src="https://img.shields.io/badge/Haskell-CFE1B9?style=for-the-badge&logo=haskell&logoColor=FFFFFF" alt="Haskell" />
+  <img src="https://img.shields.io/badge/SQL-B5C99A?style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="SQL" />
+  <img src="https://img.shields.io/badge/.NET-97A97C?style=for-the-badge&logo=dotnet&logoColor=FFFFFF" alt=".NET" />
+  <img src="https://img.shields.io/badge/Docker-87986A?style=for-the-badge&logo=docker&logoColor=FFFFFF" alt="Docker" />
+  <img src="https://img.shields.io/badge/Figma-718355?style=for-the-badge&logo=figma&logoColor=FFFFFF" alt="Figma" />
 </p>
 
 
@@ -39,8 +39,8 @@ Software developer passionate about building practical solutions and continuousl
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Carlos-MLS&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Carlos-MLS&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Carlos-MLS&show_icons=true&theme=tokyonight&title_color=738678&text_color=FFFFFF&icon_color=738678&ring_color=738678&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Carlos-MLS&layout=compact&theme=tokyonight&title_color=738678&text_color=FFFFFF&icon_color=738678&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 
