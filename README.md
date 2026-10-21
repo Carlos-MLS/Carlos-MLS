@@ -48,14 +48,4 @@ Software developer passionate about building practical solutions and continuousl
 
   - [**Document Indexer Client–Server**](https://github.com/Carlos-MLS/CLIENTSERVER-INDEXER) — Linux document-indexing and search service in C, using FIFOs for IPC, parallel search, LRU caching and persistent metadata.
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=28&duration=1&pause=999999&color=738678&width=180&height=40&lines=GitHub+Stats&center=false&vCenter=true&repeat=false" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Carlos-MLS&show_icons=true&theme=tokyonight&title_color=738678&text_color=FFFFFF&icon_color=738678&ring_color=738678&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Carlos-MLS&layout=compact&theme=tokyonight&title_color=738678&text_color=FFFFFF&icon_color=738678&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-
----
